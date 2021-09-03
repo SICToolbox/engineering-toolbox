@@ -48,3 +48,6 @@ The material made available on this repository can be used in several ways, foll
 - Questioning results **afterwards**. Letting learners conduct their work as usual using *regular* material (i.e. not sustainable-aware), and only then organising an activity having them reflect back on their result or methodology.
 - **Gamification**. Using a platform hosting game-like mechanics (Kahoot, Wooclap) or directly implementing them on the school LMS (achievements, progression tracking, badges, titles, leaderboards, scores).
 
+
+## Existing toolboxes
+- [INR *Boîte à outils*](https://sustainableit-tools.isit-europe.org/)
