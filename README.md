@@ -4,9 +4,19 @@ Resource toolbox to raise engineering students' awareness about sustainability c
 
 ## Aim and scope
 
--- Insert abstract here --
+Raising awareness about the impact of ICT on the environment, can help shaping more sustainable solutions.
 
-## Ideas for didactic material to raise awareness in students.
+To be beneficial on a broad scale, this **awareness should be brought to all ages and levels of the population**.
+Sustainable behaviour should not be forced on people, but we can provide the necessary tools and knowledge to achieve consciousness of our society's impact on the environment.
+ 
+As engineers and computer scientists from the academic world, we developed an open-source, cooperative collections of tools and hints to enable bringing this awareness into the ICT fields.
+
+The **SICT Interdisciplinary Cooperative Toolbox** is designed to help teaching staff to enrich their teaching portfolio with resources including and addressing sustainability aspects that are often overlooked.
+
+The included content spans from graphs and real-world data about the impact of ICT on the environment passing through exercises involving the students,
+to debates and event ideas for a broader public.
+
+## Ideas for didactic material to raise awareness among students.
 
 - List chemicals and ask them which they think is actually used in producing the components they used in the labs.
 They could then raise the question about alternatives, which would need to be investigated.
